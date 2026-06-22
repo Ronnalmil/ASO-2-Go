@@ -1,6 +1,6 @@
 # ASO-2-Go
 ASO 2º GO
-PS C:\Users\larax> C:\mrcOneDrive\OneDrive\Escritorio\ASO 2º GO\uno.ps1
+#PS C:\Users\larax> C:\mrcOneDrive\OneDrive\Escritorio\ASO 2º GO\uno.ps1
 nombre del nuevo usuario: rony
 contraseña del usuario: rony
 señor usuario quiere informarlo s/n: s
